@@ -8,6 +8,7 @@ I am currently exploring how to build intelligent AI systems that combine LLMs w
 This repo contains my hands-on experiments, code, and learnings.
 
 ## 📚 What I'm Learning
+.
 
 - RAG fundamentals
 - Embeddings and vector databases
